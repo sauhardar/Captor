@@ -1,0 +1,521 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from [:react-native-svg] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-maps] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-reanimated] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-permissions] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/6472b624f348bff82e596bc083c98468/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1a260e27607e3d466e7f1e337a481275/AndroidManifest.xml:17:1-22:12
+MERGED from [:unimodules-react-native-adapter] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-app-loader-provider] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/7321d5cc7e0d3e66772d32344957bfbc/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/a45e32e1e853de8ce5060d19d2d07332/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/409e081f4e52a0dc8e94a49e54c113e8/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/538ddef239f3c4dc1116cb9b330e7374/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:transition:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/bb7e07d049ece8a22895f58c306660b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/41377c96bb785f714c2ce2dcdf7e1a89/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/dd18e047a04a2581529e550dab806c70/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9e279797de9a80cea189f2ea203ecde2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/8a1fd253149aa4c7c414d9ef5b260114/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/b8bf464687dcca5574fd75968a464411/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/32f11cabecaa5e595b47d99b97b11d70/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/32a4ce3badd8e2e0b1c013d5d12e411a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/7070c1048242f6ae4ac1388e7428ec5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8eeb3a1efb77cf857e13c431f6fb614a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/25654c9b5454965282e307d8973ee1e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/779d5601dfafda2637b60bd985975751/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1120e0fa511bc59c7ca8377bef287dc6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/42d7f4b7f6134ccbba82ba00a9aae62d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/23387d5b492c7afc38b6b64521f88770/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/775159f1ff5843b5925b14e42d0479c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cae60b0a40e7f457369edbfef30ca701/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b32b837393e279e11f7af30a463026ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/079aaadf399d2bbf5af9c433495511f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/45920d7d9209a41966768f2aa1d1eb0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/910748e240ccf90879ebf258063b1d91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d982eb04e985c061b755daacf4798297/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f32754b29d889229aa53573d7997b042/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/edea6467917caa5c6f38e33a961ac440/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1f3f96b8f5a0fbc444b2f0f954894212/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/069eca96446b1d0a0ee12924005d19e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fc88ca08ad764c91211ef45970289899/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b027c7df6bc2de049d531bfe2c0166aa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/698c05026547126b1b3d3c90ad71054c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/8e697b99c3d1495ff67a1c3897b2b803/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3ac93248c19109b794321ed303677b1a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/53f2e8dd24f5169a0f18ba54c91085b7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3336446c48802a7a11ecd08413d47f07/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3d76ee9780d92b82f0b4a10359a5f43b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/80d9b59c28e0b1faa749769c1cfc03c9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/aee3d94ee637f3861c76f23977c4462f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/8a9d45d846b6fd1cdca7acae98576dfd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/6e60d9bd5b3a47147b5899f1263de317/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/58a597612c0098d88e9b72a957de8d0c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/253b4a365511e048669c9f1f2fba0bad/AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f1b044718cb2ae3c6bf36f133de4903a/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:1:1-38:12
+	package
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:1:70-90
+		INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:3:3-65
+MERGED from [:react-native-maps] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/7321d5cc7e0d3e66772d32344957bfbc/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/7321d5cc7e0d3e66772d32344957bfbc/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:3:20-62
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:4:3-75
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:4:20-73
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:7:3-73
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:7:20-70
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:8:3-78
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:8:20-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:9:3-73
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:9:20-70
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:10:3-72
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:10:20-69
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:11:3-64
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:11:20-61
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:12:3-78
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:12:20-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:15:3-79
+MERGED from [:react-native-maps] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:expo-location] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:15:20-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:16:3-77
+MERGED from [:expo-location] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:16:20-74
+uses-permission#android.permission.CAMERA
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:17:3-63
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:17:20-60
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:18:3-70
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:18:20-67
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:19:3-70
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:19:20-67
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:20:3-71
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:20:20-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:21:3-78
+MERGED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:21:20-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:22:3-69
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:22:20-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:23:3-79
+MERGED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:23:20-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:24:3-71
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:24:20-68
+application
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:27:3-36:17
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/6472b624f348bff82e596bc083c98468/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/6472b624f348bff82e596bc083c98468/AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/7321d5cc7e0d3e66772d32344957bfbc/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/7321d5cc7e0d3e66772d32344957bfbc/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/a45e32e1e853de8ce5060d19d2d07332/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/a45e32e1e853de8ce5060d19d2d07332/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/409e081f4e52a0dc8e94a49e54c113e8/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/409e081f4e52a0dc8e94a49e54c113e8/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/538ddef239f3c4dc1116cb9b330e7374/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/538ddef239f3c4dc1116cb9b330e7374/AndroidManifest.xml:7:5-11:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/41377c96bb785f714c2ce2dcdf7e1a89/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/41377c96bb785f714c2ce2dcdf7e1a89/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/dd18e047a04a2581529e550dab806c70/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/dd18e047a04a2581529e550dab806c70/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9e279797de9a80cea189f2ea203ecde2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9e279797de9a80cea189f2ea203ecde2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/8a1fd253149aa4c7c414d9ef5b260114/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/8a1fd253149aa4c7c414d9ef5b260114/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d982eb04e985c061b755daacf4798297/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d982eb04e985c061b755daacf4798297/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f32754b29d889229aa53573d7997b042/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f32754b29d889229aa53573d7997b042/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/8e697b99c3d1495ff67a1c3897b2b803/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/8e697b99c3d1495ff67a1c3897b2b803/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/253b4a365511e048669c9f1f2fba0bad/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/253b4a365511e048669c9f1f2fba0bad/AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d982eb04e985c061b755daacf4798297/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:27:48-80
+	android:roundIcon
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:27:116-161
+	android:icon
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:27:81-115
+	android:allowBackup
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:27:162-189
+	android:theme
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:27:190-221
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:27:16-47
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:28:5-119
+	android:value
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:28:62-117
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:28:16-61
+activity#com.captor.MainActivity
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:29:5-34:16
+	android:label
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:29:44-76
+	android:windowSoftInputMode
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:29:148-190
+	android:configChanges
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:29:77-147
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:29:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:30:7-33:23
+action#android.intent.action.MAIN
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:31:9-61
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:31:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:32:9-69
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:32:19-66
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:35:5-82
+	android:name
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml:35:15-79
+uses-sdk
+INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-svg] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/6472b624f348bff82e596bc083c98468/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/6472b624f348bff82e596bc083c98468/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1a260e27607e3d466e7f1e337a481275/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1a260e27607e3d466e7f1e337a481275/AndroidManifest.xml:20:5-44
+MERGED from [:unimodules-react-native-adapter] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/7321d5cc7e0d3e66772d32344957bfbc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/7321d5cc7e0d3e66772d32344957bfbc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/a45e32e1e853de8ce5060d19d2d07332/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/a45e32e1e853de8ce5060d19d2d07332/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/409e081f4e52a0dc8e94a49e54c113e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/409e081f4e52a0dc8e94a49e54c113e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/538ddef239f3c4dc1116cb9b330e7374/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/538ddef239f3c4dc1116cb9b330e7374/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:transition:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/bb7e07d049ece8a22895f58c306660b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/bb7e07d049ece8a22895f58c306660b2/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/41377c96bb785f714c2ce2dcdf7e1a89/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/41377c96bb785f714c2ce2dcdf7e1a89/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/dd18e047a04a2581529e550dab806c70/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/dd18e047a04a2581529e550dab806c70/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9e279797de9a80cea189f2ea203ecde2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9e279797de9a80cea189f2ea203ecde2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/8a1fd253149aa4c7c414d9ef5b260114/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/8a1fd253149aa4c7c414d9ef5b260114/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/b8bf464687dcca5574fd75968a464411/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/b8bf464687dcca5574fd75968a464411/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/32f11cabecaa5e595b47d99b97b11d70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/32f11cabecaa5e595b47d99b97b11d70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/32a4ce3badd8e2e0b1c013d5d12e411a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/32a4ce3badd8e2e0b1c013d5d12e411a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/7070c1048242f6ae4ac1388e7428ec5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/7070c1048242f6ae4ac1388e7428ec5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8eeb3a1efb77cf857e13c431f6fb614a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8eeb3a1efb77cf857e13c431f6fb614a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/25654c9b5454965282e307d8973ee1e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/25654c9b5454965282e307d8973ee1e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/779d5601dfafda2637b60bd985975751/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/779d5601dfafda2637b60bd985975751/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1120e0fa511bc59c7ca8377bef287dc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1120e0fa511bc59c7ca8377bef287dc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/42d7f4b7f6134ccbba82ba00a9aae62d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/42d7f4b7f6134ccbba82ba00a9aae62d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/23387d5b492c7afc38b6b64521f88770/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/23387d5b492c7afc38b6b64521f88770/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/775159f1ff5843b5925b14e42d0479c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/775159f1ff5843b5925b14e42d0479c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cae60b0a40e7f457369edbfef30ca701/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cae60b0a40e7f457369edbfef30ca701/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b32b837393e279e11f7af30a463026ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b32b837393e279e11f7af30a463026ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/079aaadf399d2bbf5af9c433495511f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/079aaadf399d2bbf5af9c433495511f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/45920d7d9209a41966768f2aa1d1eb0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/45920d7d9209a41966768f2aa1d1eb0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/910748e240ccf90879ebf258063b1d91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/910748e240ccf90879ebf258063b1d91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d982eb04e985c061b755daacf4798297/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d982eb04e985c061b755daacf4798297/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f32754b29d889229aa53573d7997b042/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f32754b29d889229aa53573d7997b042/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/edea6467917caa5c6f38e33a961ac440/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/edea6467917caa5c6f38e33a961ac440/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1f3f96b8f5a0fbc444b2f0f954894212/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1f3f96b8f5a0fbc444b2f0f954894212/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/069eca96446b1d0a0ee12924005d19e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/069eca96446b1d0a0ee12924005d19e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fc88ca08ad764c91211ef45970289899/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fc88ca08ad764c91211ef45970289899/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b027c7df6bc2de049d531bfe2c0166aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b027c7df6bc2de049d531bfe2c0166aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/698c05026547126b1b3d3c90ad71054c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/698c05026547126b1b3d3c90ad71054c/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/8e697b99c3d1495ff67a1c3897b2b803/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/8e697b99c3d1495ff67a1c3897b2b803/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3ac93248c19109b794321ed303677b1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3ac93248c19109b794321ed303677b1a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/53f2e8dd24f5169a0f18ba54c91085b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/53f2e8dd24f5169a0f18ba54c91085b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3336446c48802a7a11ecd08413d47f07/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3336446c48802a7a11ecd08413d47f07/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3d76ee9780d92b82f0b4a10359a5f43b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3d76ee9780d92b82f0b4a10359a5f43b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/80d9b59c28e0b1faa749769c1cfc03c9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/80d9b59c28e0b1faa749769c1cfc03c9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/aee3d94ee637f3861c76f23977c4462f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/aee3d94ee637f3861c76f23977c4462f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/8a9d45d846b6fd1cdca7acae98576dfd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/8a9d45d846b6fd1cdca7acae98576dfd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/6e60d9bd5b3a47147b5899f1263de317/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/6e60d9bd5b3a47147b5899f1263de317/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/58a597612c0098d88e9b72a957de8d0c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/58a597612c0098d88e9b72a957de8d0c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/253b4a365511e048669c9f1f2fba0bad/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/253b4a365511e048669c9f1f2fba0bad/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f1b044718cb2ae3c6bf36f133de4903a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f1b044718cb2ae3c6bf36f133de4903a/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sauhardarajbhandari/Documents/GitHub/Captor/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /Users/sauhardarajbhandari/Documents/GitHub/Captor/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/7321d5cc7e0d3e66772d32344957bfbc/AndroidManifest.xml:23:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:13:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/7321d5cc7e0d3e66772d32344957bfbc/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/7321d5cc7e0d3e66772d32344957bfbc/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/7321d5cc7e0d3e66772d32344957bfbc/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/7321d5cc7e0d3e66772d32344957bfbc/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/7321d5cc7e0d3e66772d32344957bfbc/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/7321d5cc7e0d3e66772d32344957bfbc/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/7321d5cc7e0d3e66772d32344957bfbc/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/409e081f4e52a0dc8e94a49e54c113e8/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/409e081f4e52a0dc8e94a49e54c113e8/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/409e081f4e52a0dc8e94a49e54c113e8/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/409e081f4e52a0dc8e94a49e54c113e8/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/538ddef239f3c4dc1116cb9b330e7374/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/8a1fd253149aa4c7c414d9ef5b260114/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/8a1fd253149aa4c7c414d9ef5b260114/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/538ddef239f3c4dc1116cb9b330e7374/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/538ddef239f3c4dc1116cb9b330e7374/AndroidManifest.xml:9:13-58
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/sauhardarajbhandari/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/55768572763d888356ab81f82c0a23a7/AndroidManifest.xml:26:13-120
