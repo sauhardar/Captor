@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Unpaved Road",
+    "id": 001,
+    "date": "June 1st, 2019",
+    "location": { "latitude": 27.684103, "longitude": 85.327464 },
+    "comments": [
+      { "user": "John", "comment": "Someone needs to pave this road, quick!" },
+      {
+        "user": "Suman",
+        "comment": "I know someone that can take care of this. BRB"
+      }
+    ], // Would be comment objects
+    "category": "Infrastructure",
+    "interested": ["John", "Suman", "Sani"], // Would be User objects
+    "organizations": [], // Organization objects
+    "likes": 12,
+    "urgency": 3, // 1–5. As rated by OP?
+    "images": ["https://picsum.photos/50"], // Images posted by OP
+    "poster": { "name": "John" }, // User Object
+    "resolved": false
+  },
+  {
+    "title": "Broken bridge",
+    "id": 002,
+    "date": "August 3rd, 2019",
+    "location": { "latitude": 27.689482, "longitude": 85.316741 },
+    "comments": [
+      { "user": "John", "comment": "Someone needs to pave this road, quick!" },
+      {
+        "user": "Suman",
+        "comment": "I know someone that can take care of this. BRB"
+      }
+    ], // Would be comment objects
+    "category": "Infrastructure",
+    "interested": ["John", "Suman", "Sani"], // Would be User objects
+    "organizations": [], // Organization objects
+    "likes": 12,
+    "urgency": 3, // 1–5. As rated by OP?
+    "images": ["https://picsum.photos/70"], // Images posted by OP
+    "poster": { "name": "John" }, // User Object
+    "resolved": false
+  },
+  {
+    "title": "Trash pile",
+    "id": 003,
+    "date": "August 25th, 2019",
+    "location": { "latitude": 27.678179, "longitude": 85.321221 },
+    "comments": [
+      { "user": "John", "comment": "Someone needs to pave this road, quick!" },
+      {
+        "user": "Suman",
+        "comment": "I know someone that can take care of this. BRB"
+      }
+    ], // Would be comment objects
+    "category": "Infrastructure",
+    "interested": ["John", "Suman", "Sani"], // Would be User objects
+    "organizations": [], // Organization objects
+    "likes": 12,
+    "urgency": 3, // 1–5. As rated by OP?
+    "images": ["https://picsum.photos/100"], // Images posted by OP
+    "poster": { "name": "John" }, // User Object
+    "resolved": false
+  }
+]

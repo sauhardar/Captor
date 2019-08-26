@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { StyleSheet, View, TouchableOpacity } from 'react-native';
+import { StyleSheet, View, TouchableOpacity, StatusBar } from 'react-native';
 import { Map } from '../views';
 import FontAwesome5 from 'react-native-vector-icons/FontAwesome5';
 
@@ -21,20 +21,47 @@ const styles = StyleSheet.create({
     top: '2%',
     justifyContent: 'space-between'
   },
+  iconContainerBot: {
+    flexDirection: 'row',
+    width: '100%',
+    position: 'absolute',
+    bottom: 0,
+    justifyContent: 'flex-end',
+    padding: 15
+  },
   icon: {
-    color: 'black',
-    fontSize: 32
+    color: 'rgb(1,23,48)',
+    fontSize: 32,
+    marginTop: 18
   }
 });
 
 class Main extends Component {
   static navigationOptions = {
-    header: 'null',
+    header: 'null'
   };
+
+  componentDidMount() {
+    this._navListener = this.props.navigation.addListener('didFocus', () => {
+      StatusBar.setBackgroundColor('transparent');
+      StatusBar.setTranslucent(true);
+      StatusBar.setBarStyle('dark-content');
+    });
+  }
+
+  componentWillUnmount() {
+    this._navListener.remove();
+  }
 
   render() {
     return (
       <View style={styles.container}>
+        <StatusBar
+          backgroundColor="transparent"
+          translucent={true}
+          barStyle="dark-content"
+        />
+
         <Map />
         <View style={styles.iconContainer}>
           <TouchableOpacity

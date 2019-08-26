@@ -13,6 +13,7 @@ import {
 import { Drawer } from './src/components/views';
 import {
   createStackNavigator,
+  createSwitchNavigator,
   createAppContainer,
   createDrawerNavigator
 } from 'react-navigation';
@@ -63,28 +64,32 @@ const AppDrawerNavigator = createDrawerNavigator(
   { contentComponent: Drawer }
 );
 
-const WelcomeStackNavigator = createStackNavigator(
+const AuthNavigator = createStackNavigator({
+  // The login/signup page
+  Welcome: Welcome,
+  Login: Login,
+  // sign up for an account
+  Signup: Signup
+});
+
+const AppNavigator = createSwitchNavigator(
   {
-    // The login/signup page
-    Welcome: Welcome,
-    Login: Login,
+    Auth: AuthNavigator,
     // Home page w/ map, add post, view all posts, etc.
     Home: {
       screen: AppDrawerNavigator,
       navigationOptions: {
         header: null
       }
-    },
-    // sign up for an account
-    Signup: Signup
+    }
   },
   {
     // Figure out a way to avoid welcome page if account already exists
-    initialRouteName: 'Welcome'
+    initialRouteName: 'Home'
   }
 );
 
-const AppContainer = createAppContainer(WelcomeStackNavigator);
+const AppContainer = createAppContainer(AppNavigator);
 
 class App extends Component {
   render() {
